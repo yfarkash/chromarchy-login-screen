@@ -73,7 +73,8 @@ To show only some designs, edit the `rotation` list near the top of `LockView.qm
 
 ## Credits
 
-- The CHROMARCHY lettering is built from the [Omarchy](https://github.com/basecamp/omarchy) logo (MIT), and the lock logic is Omarchy's.
+- The CHROMARCHY lettering is built from the [Omarchy](https://github.com/omacom/omarchy) logo (MIT), and the lock logic is Omarchy's.
+- Designed and built with help from [Claude](https://claude.com/claude-code), Anthropic's AI assistant.
 - This is a fan project. It isn't affiliated with or endorsed by Google, Arch Linux, 37signals or Omarchy. Chrome and Google are trademarks of Google LLC, and the Arch Linux logo is a trademark of Arch Linux. All artwork here is original pixel art that only nods to them.
 
 MIT licensed. See [LICENSE](LICENSE).
