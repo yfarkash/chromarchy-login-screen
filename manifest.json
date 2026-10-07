@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "io.github.yfarkash.chromarchy-login-screen",
+  "name": "Chromarchy Login Screen",
+  "version": "1.0.0",
+  "author": "yfarkash",
+  "license": "MIT",
+  "description": "Five Chrome-meets-Omarchy lock screens, a random one each time you lock, including an animated offline dino. Made for Omarchy on a Chromebook.",
+  "omarchy": {
+    "capabilities": [
+      "authentication"
+    ],
+    "clonedFrom": "omarchy.lock"
+  },
+  "kinds": [
+    "service"
+  ],
+  "keepLoaded": true,
+  "entryPoints": {
+    "service": "Service.qml"
+  }
+}
